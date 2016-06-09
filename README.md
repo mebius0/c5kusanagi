@@ -1,2 +1,2 @@
 # c5kusanagi
-「さくらのクラウド for KUSANAGI」にconcrete5を入れるスタートアップスクリプト
+「KUSANAGI for さくらのクラウド」にconcrete5を入れるスタートアップスクリプト
