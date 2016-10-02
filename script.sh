@@ -55,4 +55,6 @@ chmod +x concrete5
 ./concrete5 c5:install --db-server=127.0.0.1 --db-username=$USERNAME --db-password=$PASSWORD --db-database=$USERNAME --admin-password=$ADMIN_PASSWORD --admin-email=$ADMIN_EMAIL --starting-point=elemental_full --site="$SITE_NAME"
 
 chmod -R 777 /home/kusanagi/$USERNAME/DocumentRoot/application/files
+chmod -R 777 /home/kusanagi/$USERNAME/DocumentRoot/application/config
+chmod -R 777 /home/kusanagi/c5_gh5uiyu5ti/DocumentRoot/updates/
 chown -R kusanagi:kusanagi /home/kusanagi/$USERNAME || exit 1
