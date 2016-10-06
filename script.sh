@@ -56,5 +56,5 @@ chmod +x concrete5
 
 chmod -R 777 /home/kusanagi/$USERNAME/DocumentRoot/application/files
 chmod -R 777 /home/kusanagi/$USERNAME/DocumentRoot/application/config
-chmod -R 777 /home/kusanagi/c5_gh5uiyu5ti/DocumentRoot/updates/
+chmod -R 777 /home/kusanagi/$USERNAME/DocumentRoot/updates/
 chown -R kusanagi:kusanagi /home/kusanagi/$USERNAME || exit 1
